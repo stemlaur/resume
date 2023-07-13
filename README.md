@@ -8,7 +8,7 @@ Email: laurent.stemmer@gmail.com
 [Strengths]
 -----------
 
-- 12+ years of professionnal experience with Java, Ruby, building:
+- 16+ years of professionnal experience with Java, Ruby, building:
 	- Robust backend, database-heavy services 
 	- Web applications.
 	- Middleware services using message queues, web services
